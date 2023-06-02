@@ -1,0 +1,15 @@
+D:\Patika\Kalitim\bin\Debug\net7.0\Kalitim.exe
+D:\Patika\Kalitim\bin\Debug\net7.0\Kalitim.deps.json
+D:\Patika\Kalitim\bin\Debug\net7.0\Kalitim.runtimeconfig.json
+D:\Patika\Kalitim\bin\Debug\net7.0\Kalitim.dll
+D:\Patika\Kalitim\bin\Debug\net7.0\Kalitim.pdb
+D:\Patika\Kalitim\obj\Debug\net7.0\Kalitim.csproj.AssemblyReference.cache
+D:\Patika\Kalitim\obj\Debug\net7.0\Kalitim.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\Kalitim\obj\Debug\net7.0\Kalitim.AssemblyInfoInputs.cache
+D:\Patika\Kalitim\obj\Debug\net7.0\Kalitim.AssemblyInfo.cs
+D:\Patika\Kalitim\obj\Debug\net7.0\Kalitim.csproj.CoreCompileInputs.cache
+D:\Patika\Kalitim\obj\Debug\net7.0\Kalitim.dll
+D:\Patika\Kalitim\obj\Debug\net7.0\refint\Kalitim.dll
+D:\Patika\Kalitim\obj\Debug\net7.0\Kalitim.pdb
+D:\Patika\Kalitim\obj\Debug\net7.0\Kalitim.genruntimeconfig.cache
+D:\Patika\Kalitim\obj\Debug\net7.0\ref\Kalitim.dll
